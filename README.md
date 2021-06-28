@@ -7,4 +7,4 @@ Specializing in:
 
 Check it out here: [Horiseon](https://mattersievers.github.io/Horiseon/)
 
-!["Website Preview"](\assets\images\screenshot.jpg)
+!["Website Preview"](/assets/images/screenshot.jpg)
